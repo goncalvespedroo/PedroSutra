@@ -2,7 +2,7 @@
 
  ##### About me:
 
-- 🔭 I’m currently working on improve my skills as a Web Develloper
+- 🔭 I’m currently working on improve my skills as a Web Develloper/Front-End
 - 🌱 I’m currently learning more about frontEnd and UX
 - 📫 How to reach me:
 goncalvesdiasdasilvaj@gmail.com
